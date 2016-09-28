@@ -11,3 +11,16 @@
     * PUT http://gustavokons.com.br/api/task
 * Insert a task:
     * POST http://gustavokons.com.br/api/task
+    
+### EXTRA INFORMATION
+**Entity Task**
+```
+{
+   "uuid": "",
+   "type": "",
+   "content": "",
+   "sort_order" : 0,
+   "done" : true|false,
+   "date_created": ""
+}
+```
