@@ -1,6 +1,6 @@
 # API Rest Test in PHP using Slim Framework
 
-### URL examples
+### Api Reference
 * List of tasks:
     * GET http://gustavokons.com.br/api/tasks
 * List a single task:
@@ -11,7 +11,7 @@
     * PUT http://gustavokons.com.br/api/task
 * Insert a task:
     * POST http://gustavokons.com.br/api/task
-    
+
 ### EXTRA INFORMATION
 **Entity Task**
 ```
